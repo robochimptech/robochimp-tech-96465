@@ -5,9 +5,11 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      ###### Let's talk!
+
+
+      Fill out the form below or send us an email at
+      [gary@robochimp.tech](mailto:gary@robochimp.tech).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
